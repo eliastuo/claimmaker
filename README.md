@@ -15,7 +15,9 @@ Did you know that Toyota Truck Month might happen twice this year because of mag
 ## Author
 
 Elias Tuomaala
+
 Website: [www.eliastuomaala.com](https://eliastuomaala.com/ "Elias Tuomaala")
+
 Email: mail@eliastuomaala.com
 
 ## License
