@@ -6,7 +6,7 @@ The flowchart is quite enterataining to eyeball as it is. Yet it can be quite te
 
 ## Author
 
-Elias Tuomaala. Website: [eliastuomaala.com](https://eliastuomaala.com/"Elias Tuomaala"). Email: mail@eliastuomaala.com.
+Elias Tuomaala. Website: [eliastuomaala.com](https://eliastuomaala.com/ "Elias Tuomaala"). Email: mail@eliastuomaala.com.
 
 ## License
 
@@ -14,4 +14,4 @@ The original comic is released under the Creative Commons Attribution-NonCommerc
 
 ## Comic
 
-![image](https://imgs.xkcd.com/comics/calendar_facts_2x.png)
+![While it may seem like trivia, it (causes huge headaches for software developers/is taken advantage by high-speed traders/triggered the 2003 Northeast Blackout/has to be corrected for by GPS satellites/is now recognized as a major cause of World War I).](https://imgs.xkcd.com/comics/calendar_facts_2x.png)
