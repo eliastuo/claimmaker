@@ -14,4 +14,4 @@ The original comic is released under the Creative Commons Attribution-NonCommerc
 
 ## Comic
 
-!(https://imgs.xkcd.com/comics/calendar_facts_2x.png)
+![image](https://imgs.xkcd.com/comics/calendar_facts_2x.png)
