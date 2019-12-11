@@ -1,7 +1,10 @@
 from claimmaker import claim
+from flowchart import flowchart
+from mousehover import add_mousehover
 
 def main():
-    text = claim(mousehover=True)
+    text = claim(flowchart)
+    text = add_mousehover(text)
     print(text)
 
 if __name__ == "__main__":
